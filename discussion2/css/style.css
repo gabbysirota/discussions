@@ -1,0 +1,13 @@
+h1{
+  color: black;
+  text-align: center;
+}
+
+h2{
+  text-shadow: 1px 1px .5px;
+  color: navy;
+}
+
+ol{
+  list-style-image: url("../images/logo.png");
+}
